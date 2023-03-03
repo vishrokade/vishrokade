@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Rokade !</h1>
 <h3 align="center">A android and java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrokade&label=Profile%20views&color=0e75b6&style=flat" alt="vishrokade" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishrokade&label=Profile%20views&color=0e75b6&style=flat" alt="vishrokade" /> </p>
 
 - 🔭 I’m currently working on **Dart and android project**
 
