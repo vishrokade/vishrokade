@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Dart and android project**
 
-- 🌱 I’m currently learning **Dart or flutter application development**
+  - 🌱 I’m currently learning **Dart or flutter application development**
+  
+  - 💬 Ask me about **android, oop, java**
 
-- 💬 Ask me about **android, oop, java**
-
-- 📫 How to reach me **rokadevishal2002@gmail.com**
+  - 📫 How to reach me **rokadevishal2002@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
