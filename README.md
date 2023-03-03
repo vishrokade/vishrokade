@@ -5,13 +5,13 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **Dart and android project**
+<p align="center">- 🔭 I’m currently working on **Dart and android project**</p>
 
-- 🌱 I’m currently learning **Dart or flutter application development**
+<p align="center">- 🌱 I’m currently learning **Dart or flutter application development**</p>
 
-- 💬 Ask me about **android, oop, java**
+<p align="center">- 💬 Ask me about **android, oop, java**</p>
 
-- 📫 How to reach me **rokadevishal2002@gmail.com**
+<p align="center">- 📫 How to reach me **rokadevishal2002@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
