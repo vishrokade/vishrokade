@@ -4,14 +4,13 @@
 <h3 align="center">A android and java developer from India</h3>
 
 <p align= "center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" align="center" alt="Typing SVG" /></a></p>
+- 🔭 I’m currently working on **Dart and android project**
 
-                                             - 🔭 I’m currently working on **Dart and android project**
-
-                                            - 🌱 I’m currently learning **Dart or flutter application development**
+- 🌱 I’m currently learning **Dart or flutter application development**
   
-                                           - 💬 Ask me about **android, oop, java**
+- 💬 Ask me about **android, oop, java**
 
-                                           - 📫 How to reach me **rokadevishal2002@gmail.com**
+- 📫 How to reach me **rokadevishal2002@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
