@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrokade&label=Profile%20views&color=0e75b6&style=flat" alt="vishrokade" /> </p>
+
 <h1 align="center">Hi 👋, I'm Vishal Rokade !</h1>
 <h3 align="center">A android and java developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishrokade&label=Profile%20views&color=0e75b6&style=flat" alt="vishrokade" /> </p>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **Dart and android project**
 
@@ -26,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishrokade&show_icons=true&locale=en" alt="vishrokade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishrokade&" alt="vishrokade" /></p>
+
 
