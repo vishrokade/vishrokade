@@ -5,7 +5,7 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" alt="Typing SVG" /></a>
 
-<a align="center">- 🔭 I’m currently working on **Dart and android project**</a>
+<center>- 🔭 I’m currently working on **Dart and android project**</center>
 
 <p align="center">- 🌱 I’m currently learning **Dart or flutter application development**</p>
 
