@@ -5,11 +5,11 @@
 
 <p align= "center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" align="center" alt="Typing SVG" /></a></p>
 
-- 🔭 I’m currently working on **React web devlopment project**
+- 🔭 I’m currently working on **Web devlopment projects**
 
 - 🌱 I’m currently learning **React JS web application development**
   
-- 💬 Ask me about **android, oop, java, MYSQL**
+- 💬 Ask me about **OOPs, java, MYSQL, JavaScript**
 
 - 📫 How to reach me **rokadevishal2002@gmail.com**
 
