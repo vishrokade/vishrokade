@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrokade&label=Profile%20views&color=0e75b6&style=flat" alt="vishrokade" /> </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Rokade !</h1>
-<h3 align="center">A android and java developer from India</h3>
+<h3 align="center">A Web & java developer from India</h3>
 
 <p align= "center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+;DSA+%7C+Java+%7C+OOP;Problem+solving;Becoming++better+day+by+day" align="center" alt="Typing SVG" /></a></p>
 
